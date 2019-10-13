@@ -16,7 +16,7 @@ Water: 1 cup (1 cup for all white flour, 1.33 cup for all wheat flour)
 Oil, olive or canola: 0.25 cup
 Sugar: 2 teaspoons
 Salt: 2 teaspoons
-Gluten, wheat: 1 tablespoon
+Gluten, wheat: 2 tablespoons
 Flour, sifted: 3 cup
 Seeds, sesame: 0.25 cup
 Seeds, flax: 0.25 cup
@@ -40,7 +40,7 @@ Water: 1 cup (1 cup for all white flour, 1.33 cup for all wheat flour)
 Oil, olive or canola: 0.25 cup
 Sugar: 2 teaspoons
 Salt: 2 teaspoons
-Gluten, wheat: 1 tablespoon
+Gluten, wheat: 2 tablespoons
 Flour, sifted: 3 cup
 Yeast: 2-5 teaspoon (by activity, 2 teaspoons instant yeast)
 
@@ -61,7 +61,7 @@ Ingredients
 Water: 1 cup (1 cup for all white flour, 1.33 cup for all wheat flour)
 Sugar: 2 teaspoons
 Salt: 2 teaspoons
-Gluten, wheat: 1 tablespoon
+Gluten, wheat: 2 tablespoons
 Flour, sifted: 3 cup
 Yeast: 2-5 teaspoon (by activity, 2 teaspoons instant yeast)
 
