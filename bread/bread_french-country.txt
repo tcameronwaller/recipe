@@ -38,9 +38,10 @@ No Knead Bread
 The New York Times Cooking
 https://cooking.nytimes.com/recipes/11376-no-knead-bread
 
-----------
-----------
-----------
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
 
 ----------
 Yeild: 1 loaf
@@ -50,88 +51,82 @@ Yeild: 1 loaf
 Ingredients
 ----------
 
-Option 1: Blend of wheat flour and white bread flour
-Option 2: White Bread flour
-
 Starter
 Water: 1 cup
 Olive oil: 2 Tablespoons (optional)
+Salt: 1.5 teaspoons
 Yeast: 0.25 teaspoon
 Wheat gluten: 1 tablespoon (optional with good flour)
-Option 1
-Flour, wheat: 1.5 cups
-Option 2
-Flour, white: 2 cups
+Wheat flour (white or whole): 1.5 cups
 
 Dough
-Sugar: 1 tablespoon (optional)
-Salt: 1.5 teaspoons
-Option 1
-Flour, white: 0.5-1 cups
-Option 2
-Flour, white: 0.5-1 cups
+Wheat flour (white): 1.0-1.5 cups
 
 ----------
 Procedure
-Active Preparation Time: about 3 hours
+Active Preparation Time: about 1 hour
 ----------
 
 Starter
 Combine ingredients for starter.
-If using a blend of wheat and white flour, add wheat flour before white flour so that the wheat flour has a chance to soak up moisture and digest.
+If using a blend of whole wheat and white flour (half and half), add whole flour before white flour so that the whole flour has a chance to absorb water and digest.
 Starter will have a wet, thick consistency similar to a thick pudding.
-Cover the starter in a sufficiently large container.
-Let the starter rest for 12-24 hours in a warm place (about 75-120 degrees Fahrenheit).
-Gluten matrix development should cause the starter to stick together.
+Cover the starter in a sufficiently large container such as a stainless steel pot (about 5 liter capacity) with a lid.
+Let the starter rest for 12-24 hours in a warm place (about 75-100 degrees Fahrenheit).
+Gluten matrix development should eventually cause the starter to begin to stick together in a wet, gooey mass.
 
 Warm incubation (optional... alters flavor)
 Place the dough in a container of about 4-6 liter capacity with a tight covering to preserve water in the dough.
 Place this smaller container in or over a larger container of about 10-15 liter capacity.
-Place warm water (about 75-120 degrees Fahrenheit) in this larger container to maintain incubation temperature around the dough.
+Place warm water (about 90-120 degrees Fahrenheit) in this larger container to maintain incubation temperature around the dough.
+I experimented with warm incubation, and it seems to alter the flavor and texture of the dough.
 
 Dough
-Combine starter with salt and sugar.
-Let the starter absorb and adjust to the salt and sugar for 1 hour in a warm place (about 75-120 degrees Fahrenheit).
-Combine starter with flour for dough.
-Add flour gradually.
+Add remaining flour gradually to the starter to form a dough.
 Add partial amount of flour, then allow moist dough to rest for 15 minutes to allow flour to soak up moisture.
-Add enough flour to form a soft dough that is only slightly sticky and holds its shape for good rise.
+Try to add less flour to keep the dough as wet as possible.
+Dough should be a coherent mass that is still quite wet and soft.
+Transfer dough from bowl or pot to a floured surface for kneading.
 
 Knead
 Kneading is an opportunity to mix the dough and facilitate development of the gluten matrix for the dough's structure.
-Dough should be easy to handle on its surface but moist and sticky in its core.
-Add just enough flour in small dustings to the table top and dough surface to keep the dough from sticking and tearing.
-If dough is too moist or if the flour lacks gluten, then bread will not rise as well.
+Begin kneading the dough early, while the dough is far too wet to handle directly.
+Apply light yet frequent dustings of flour on dough, surface, and hands to allow handling and kneading while dough is still wet.
+Add just enough flour to making handling and kneading possible.
+Do not add too much flour.
+Handling wet dough requires practice.
 Knead the dough for 10-15 minutes.
-Check gluten development by stretching the starter thin to a transparent sheet.
+Return the dough to the bowl or pot and cover for the incubation rest or proofing.
 
 Incubation
 Cover the dough in a sufficiently large container.
-Let the dough rest and rise for about 2 hours in a warm place (about 75-120 degrees Fahrenheit) until it doubles in volume.
+Let the dough rest and rise for about 2 hours in a warm place (about 75-100 degrees Fahrenheit) until it doubles in volume.
 Check the dough's structure by how well the dough rises up relative to spreading out.
+Dough with good gluten matrix development will hold surface tension and rise up even while wet.
 
 Loaves
 
-Shape the dough into loaves of about 500 grams in mass.
-Place loaves on a layer of cornmeal over parchment paper.
-Cover loaves with plastic wrap or a towel.
-Let the loaves rise for about 1 hour in a warm place (about 75-120 degrees Fahrenheit) until they double in volume.
-Slash the tops of loaves.
-Spray a light mist of water on the surface of the loaves right before baking.
+Shape the dough into loaves.
+Place loaves on parchment paper.
+Cover loaves with a damp towel.
+Let the loaves rise for 1-3 hours in a warm place (about 75-100 degrees Fahrenheit) until they double in volume.
+Sprinkle a light covering of water on the loaves right before baking.
 
 Bake
 
 Preheat oven and baking stone if you have one to 500 degrees Fahrenheit.
-Place a pan of hot water in the bottom of the oven to create steam in the oven.
-Bake the loaves in the oven at 500 degrees Fahrenheit for the first 5 minutes of baking.
-Decrease the temperature to 400 degrees Fahrenheit and bake for 10-20 more minutes.
+Place a pan of hot water in the bottom of the oven to create steam in the oven (optional).
+Bake the loaves in the oven at 500 degrees Fahrenheit for about 20 minutes.
 Bake until the bread's surface is thoroughly golden and begins to turn darker brown in small areas.
 Baguettes require only 10-15 minutes to bake.
 Thicker loaves require 10-30 minutes to bake.
+For very large loaves, decrease the oven temperature to 400 degrees Fahrenheit after the first 5 minutes of baking.
 
-----------
-----------
-----------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+Note: These ingredient proportions are old and need revision.
 
 ----------
 Yeild: 10 loaves, 500 grams each
