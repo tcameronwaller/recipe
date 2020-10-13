@@ -44,11 +44,8 @@ https://cooking.nytimes.com/recipes/11376-no-knead-bread
 --------------------------------------------------
 
 ----------
-Yeild: 1 loaf
-----------
-
-----------
 Ingredients
+Yeild: 1 loaf
 ----------
 
 Starter
@@ -61,6 +58,38 @@ Wheat flour (white or whole): 1.5 cups
 
 Dough
 Wheat flour (white): 1.0-1.5 cups
+
+----------
+Ingredients
+Yeild: 2 loaves
+----------
+
+Starter
+Water: 2 cup
+Olive oil: 0.25 cup (optional)
+Salt: 1 tablespoon
+Yeast: 0.5 teaspoon
+Wheat gluten: 2 tablespoons (optional with good flour)
+Wheat flour (white or whole): 3 cups
+
+Dough
+Wheat flour (white): 2-3 cups
+
+----------
+Ingredients
+Yeild: 3 loaves
+----------
+
+Starter
+Water: 3 cup
+Olive oil: 0.33 cup (optional)
+Salt: 1.5 tablespoons
+Yeast: 1 teaspoon
+Wheat gluten: 3 tablespoons (optional with good flour)
+Wheat flour (white or whole): 4 cups
+
+Dough
+Wheat flour (white): 4-5 cups
 
 ----------
 Procedure
