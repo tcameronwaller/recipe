@@ -1,0 +1,788 @@
+--------------------------------------------------
+Alcohol
+General Notes
+--------------------------------------------------
+
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+13 October 2020
+
+----------
+Sources of bulk fruit concentrate
+
+Coloma Frozen Foods, Inc.
+www.colomafrozen.com
+4145 Coloma Road
+Coloma, Michigan 49038-8967
+1-269-849-0500
+
+In 2020, Coloma Frozen Foods, Inc. had an "A+" rating from the Better Business Bureau.
+
+Apple juice concentrate (7-fold) is available in 1.5 gallon (dilutes to 6-9 gallons) for $36.
+Blackberry juice concentrate (7-fold) is available in 1.5 gallon (dilutes to 6-9 gallons) for $140.
+
+User Nebraskan on Home Brew Talk wrote this comment on 31 December 2017 about using apple juice concentrate from Coloma Frozen Foods.
+(https://www.homebrewtalk.com/threads/whats-the-purpose-of-secondary-fermentation-with-dry-cider.642765/)
+"Yes, adding sugar will give it a sweetness, and at the winery where I work, we have made over 260,000 gallons of cider in 2017, and end up adding sugar to many that go out in the tanker trucks, as well as our own with a bit of apple juice concentrate from Coloma Frozen Foods. I played around in the lab with our cider and thought it was lacking a bit of apple character, so I made up different amounts of sweetened cider with varying amounts of apple concentrate. We like what we have come up with and so have the customers. We add Malic to the cider if it is below 0.400 acid and boost it up to around 0.650 as Malic before adding the yeast nutrients, and yeast to ferment. It gives it a crispness that is pleasing since often the apple juice we receive may not be the best... (reads crappy apple juice) as it is high in pH and low in acid. Once the Malic is added it brings new life into the apple juice, and takes the gold brown color back down to a very light pale yellow.
+
+One of our orders to Bremer Authentic Ingredients (sugar) this last fall for use in ciders and chapitalization was actually a truck load of 33,000 pound of sugar. That lasted about 3 weeks I recall.
+
+I would still add the potassium sorbate (K-sorbate) at 200 ppm any time adding sugar, regardless of cold. We had a wine a while back that got some unusual yeast in it and started fermenting when cold stailizing and there was ice crystals in the top of the wine. We have also seen fermentation start in our wines we have put into 250 gallon totes and put into the walk in cooler that is held at 34F. Mother nature seems to find a way sometimes."
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+12 October 2020
+
+----------
+Hops in cider making
+
+https://byo.com/article/hopped-cider/
+https://www.homebrewersassociation.org/how-to-brew/balancing-act-make-hoppy-cider/
+https://seedtopantryschool.com/brew-dry-hopped-cider/
+
+Use a "dry hop" method to introduce hops to cider. The lack of boiling cider will extract less bitterness from the hops. Add hops to cider after primary fermentation is mostly complete to prevent bubbling from dispelling hoppy aromas. Allow hops to stay in cider at 10-20 degrees Celsius for about 7 days. Then rack the cider to remove from yeast lees and hop material. Do not leave cider on hops too long to avoid extraction of undesirable plant flavors.
+
+Consider hops that have bright, citrus, fruity aromas such as Cascade, Citra, Mosaic, Palisade, Amarillo, Simcoe, Galaxy, Sorachi Ace, Nelson Sauvin, or Centennial.
+
+Bitter hops can introduce interesting, earthy flavors to cider. When dry hopping these hops do not introduce as much bitterness due to the lack of boiling. Bitter hops for cider include Galena or Fuggle.
+
+Fuggle has a lesser concentration of alpha acids than Cascade. Fuggle's aroma and flavor profile is less bright, tart, and fruity than Cascade's. Fuggle's aromas are mild, musty, woodsy, and earthy. Fuggle is a classic variety for old English ales.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+4 October 2020
+
+----------
+
+Helpful description of cider making, including notes on priming sugar for back carbonation in bottles.
+
+https://howtomakehardcider.com/carbonation-and-alcohol/
+
+The Northern Brewer priming sugar calculator is probably the best reference.
+
+The author of "How to make hard cider" website also recommends multiple rackings to remove sediment from the cider and to remove the cider from the lees (dead yeast) to avoid bitter yeasty flavor. Primary rack should come after fermentation stalls and is mostly complete. Secondary rack should come about 8 weeks after primary rack. The tertiary rack is optional and should occur 8 weeks after the secondary rack. Aging the cider for 3-6 months will allow the sharp and bitter flavors from malic acids to mellow by conversion to lactic acid in malolactic fermentation.
+
+The author of "How to make har cider" website also recommends adding a few apple extracts to enhance flavor, especially when starting with cheaper apple cider base. The author also recommends back sweetening with a little Stevia or another non-fermentable sugar, such as xylitol.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+29 September 2020
+
+----------
+General notes for apple cider batch started on 29 September 2020
+
+----------
+Potential alcohol estimation
+
+With complete fermentation, 16.83 grams of sugar per liter sustains production of 1 % ethanol by volume (http://wineindustrynetwork.com/uploads/tips/gqRwa10bvFXsGDBIHfLKmE7A9yjiCt.pdf).
+
+A more conservative rule of thumb for brewers, asserts that 1 pound (16 ounces, 454 grams) of sugar in 5 gallons (18.95 liters) (24 grams of sugar in 1 liter) will raise the potential alcohol content by 1 % ethanol by volume.
+
+So complete fermentation has potential to produce 1 % ethanol by volume from 16-24 grams of sugar per liter.
+
+----------
+Specific gravity estimation
+
+https://www.homebrewit.com/pages/hydrometer-basics-for-home-brewing-and-wine-making
+
+1.5 pounds (680 grams) sugar in 1 gallon (3.79 liters) water (180 grams per liter) ought to have a specific gravity of 1.057, with potential ethanol of 7.5 %v/v.
+
+1.75 pounds (794 grams) sugar in 1 gallon (3.79 liters) water (209 grams per liter) ought to have a specific gravity of 1.067, with potential ethanol of 9 %v/v.
+
+2 pounds (907 grams) sugar in 1 gallon (3.79 liters) water (239 grams per liter) ought to have a specific gravity of 1.077, with potential ethanol of 10 %v/v.
+
+
+--------------------------------------------------
+26 May 2019
+
+----------
+Retrospective note (written on 25 September 2020)
+
+The bottle carbonation on 26 May 2019 was in glass 12-ounce bottles with caps, and I cooled the bottles thoroughly after allowing several days or even more than a week for fermentation. The carbonation was so extreme that substantial quantities of foam emerged from the bottles after opening. This extent of carbonation also affected the flavor of the cider.
+
+I think I ought to reconsider the quantity of priming sugar for bottle carbonation. In particular, I want to be able to store the bottles at room temperature for weeks to months before cooling and opening. Hence, it will be important for fermentation to expend priming sugar early enough that the bottles do not burst.
+
+----------
+Bottle carbonation
+
+I am preparing a batch of apple cider.
+I want 3-5 bars of pressure.
+I have a total volume of about 3.5 liters of cider.
+I want about 10-18 liters of carbon dioxide for 3-5 bars of pressure.
+I want about 50 grams of priming sugar.
+
+Plan to add 4.0 tablespoons (about 60 grams) of brown sugar to 3.5 liters of cider.
+
+--------------------------------------------------
+5 January 2019
+
+----------
+Bottle carbonation
+
+http://www.winegrowers.info/wine_equip/carbonators/info.htm
+
+1 volume of carbon dioxide = 1 atmosphere = 1 bar = 100 kilopascals = 14.7 pounds per square inch = 1.53 grams per liter volume
+
+Sparkling wine such as Champagne has up to 6.0 bar pressure of carbonation. This carbonation corresponds to about 6 volumes of carbon dioxide or about 10 grams per liter.
+
+Cider has 3 bar pressure of carbonation.
+
+Soda has 3 bar pressure of carbonation.
+
+----------
+Priming sugar estimation
+
+https://www.northernbrewer.com/pages/priming-sugar-calculator
+
+About 0.6 grams of sugar per liter is sufficient for complete fermentation to produce 1 liter volume of carbon dioxide.
+About 7.5 grams of sugar per liter is sufficient for complete fermentation to produce 3 liters volume of carbon dioxide.
+About 14.5 grams of sugar per liter is sufficient for complete fermentation to produce 5 liters volume of carbon dioxide.
+The conversion is not linear.
+
+1 teaspoon of granular sugar is about 4 grams.
+1 tablespoon of granular sugar is about 12.5 grams.
+
+--------------------------------------------------
+29 December 2018
+
+----------
+Estimation of alcohol from complete fermentation of sugar.
+
+http://wineindustrynetwork.com/uploads/tips/gqRwa10bvFXsGDBIHfLKmE7A9yjiCt.pdf
+
+With complete fermentation, 16.83 grams of sugar per liter sustains production of 1 % ethanol by volume.
+
+Common white grape juice has 36 grams of sugar per 240 milliliters (https://www.simpletruth.com/products/white-grape-100-juice/). This amount of sugar converts to 150 grams per liter, with potential for about 9 % ethanol by volume.
+
+Common apple juice has 26 grams of sugar per 240 milliliters (https://www.kroger.com/p/kroger-no-sugar-added-100-apple-juice/0001111082114). This amount of sugar converts to 108 grams per liter, with potential for about 6 % ethanol by volume.
+
+--------------------------------------------------
+6 May 2017
+
+https://winemakermag.com/629-should-i-add-campden-tablets-each-time-i-rack-my-wine-and-how-do-i-measure-the-level-of-sulfite-in-my-wine
+
+--------------------------------------------------
+18 March 2017
+
+https://www.baderbrewing.com/content/how-make-wine-concord-table-grapes
+
+http://www.eckraus.com/blog/how-to-make-homemade-concord-wine
+
+http://winemaking.jackkeller.net/reques10.asp
+
+https://winemakermag.com/218-concord-varietal-focus
+
+From harvest in 2016, I have approximately 25 kilograms (55 pounds) of Concord Grapes.
+In order to make a wine with moderate to full body and flavor, 25 kilograms of Concord Grapes is sufficient for 17-24 liters of wine.
+The capacity of my secondary fermenter is about 27 liters.
+As it is unfavorable to leave air space in the secondary fermenter, I will use Concord grape juice from concentrate to fill surplus space in the fermenter.
+I might need up to 10 liters of supplemental Concord grape juice.
+
+Wines that are more acidic generally require more sugar so that the sweetness can moderate the acidity.
+Wines that are less acidic can be more dry.
+
+
+--------------------------------------------------
+17 March 2017
+
+https://winemakermag.com/858-cellar-dwellers
+
+While it is ideal to add pectinase (pectic enzyme) to must before crushing, pressing, and fermentation, the enzyme can be somewhat effective after fermentation.
+The enzyme will be less active or effective after fermentation, so it might be necessary to add more and allow it to work for a longer duration.
+
+--------------------------------------------------
+26 February 2017
+
+----------
+http://lovelygreens.com/2013/06/diy-homesteading-making-your-own.html
+
+----------
+Peach Wine 2016
+
+Since wine preparation, it rested on its must in glass jars at about 13-25 degrees Celsius.
+The broad range of temperature was due to the change in seasons.
+The wine was still on the must in glass jars of about 2-quart volume.
+The total volume of wine was about 10 liters.
+Since the wine was in so many small containers, I decided to separate the wine from the must by mechanical filtration.
+I washed and rinsed a pot, a colander, a cloth towel, and a glass cup.
+I sterilized these by boiling water in the pot for about 10 minutes.
+I strained the wine and must over the cloth and colander into the pot.
+Then I squeezed wine from the must in the cloth.
+
+I transferred the wine to plastic jugs.
+The total volume of the wine was about 10 liters.
+I added 0.55 grams of potassium metabisulfite to the wine.
+
+I tasted some of the excess peach wine.
+The overall taste of the wine was much gentler and less caustic or chemically than when I tasted it before.
+The initial taste was very mild and had little apparent flavor or aroma of peach.
+The late taste gave a pleasant reminiscence of peach.
+Overall, I found the taste mild, gentle, and pleasant.
+
+In future preparations of peach wine, I would preserve the peach juice in much greater concentration.
+I would dilute the must with much less water.
+I would also use a hydrometer to check the optimal amount of sugar to prepare a dry to mildly sweet table wine.
+I would not cook the peaches as I did with this current batch.
+Instead, I would sterilize the must with metabisulfite.
+I would keep the wine on the must for a long time, maybe even as long as I did with this batch.
+I understand that a lot of flavor comes from the must, and that is essential for this mild peach wine.
+
+----------
+Potassium Metabisulfite Addition
+
+Equipment Sterilization
+Goal concentration: 1000 milligrams per liter (mg/l) or 1 gram per liter (g/l)
+Procedure:
+Clean equipment thoroughly with soap.
+Rinse equipment thoroughly with water.
+Combine 1.75 grams of potassium metabisulfite to each 1 liter of water.
+Soak equipment in this solution for 30 minutes.
+
+Addition to Wine Must
+Goal concentration: 75 milligrams per liter (mg/l)
+Procedure:
+Combine 1.25 grams of potassium metabisulfite to each 10 liters of wine must.
+Dissolve the powder in a little water before addition.
+After addition of sulfite, allow must to ventilate for 24 hours prior to adding yeast.
+
+Addition to Wine Before Bottling
+Goal concentration: 30 mg/l
+Addition:
+Combine 0.55 grams of potassium metabisulfite to each 10 liters of wine.
+Dissolve the powder in a little water before addition.
+
+----------
+Potassium Metabisulfite Addition
+Research
+
+Potassium Metabisulfite
+
+http://winemakersacademy.com/potassium-metabisulfite-wine/
+http://winemakersacademy.com/potassium-metabisulfite-additions/
+https://en.wikipedia.org/wiki/Potassium_metabisulfite
+
+For wine with a pH of 3.5, the goal concentration of free sulfite is about 30 miligrams per liter (mg/L) or 30 parts per million (ppm).
+Depending on pH (3.3 - 3.9), that goal concentration can range from 25 mg/L to 75 mg/L.
+
+For wine must, I think the goal concentration is usually about 75 mg/L.
+
+The chemical formula of potassium metabisulfite is K2S2O5, and its formula mass is 222.31 g/mol.
+
+K: 2*(39) = 78
+S: 2*(32) = 64
+O: 5*(16) = 80
+total = 222.31 g/mol
+(222 - 78) / (222) = 0.65
+
+A common estimate is that approximately 57% by mass of potassium metabisulfite powder converts to free sulfite in solution.
+
+Alison Crowe, "The Wine Maker's Answer Book"
+
+(volume wine in liters) * (goal free SO2 in mg/L) * 1/(1000 mg/g) * 1/(0.57 g SO2/g powder) = potassium metabisulfite powder addition in grams
+
+(g powder) * (0.57 g SO2/g powder) * (1000 mg/g) * 1/(volume l) = concentration SO2 in mg/l
+
+A common estimate is that 0.25 teaspoon of potassium metabisulfite powder has a mass of about 1.4 grams.
+
+Example
+
+http://www.eckraus.com/8-oz-potassium-metabisulfite.html
+
+E. C. Kraus recommends adding 1/16 teaspoon of potassium bisulfite powder for each gallon of must, 24 hours before adding yeast.
+He recommends the same dosage to wine before bottling.
+1/16 teaspoon is about 0.35 grams.
+(0.35 g powder/gal)*(0.57 g SO2/g powder)*(1000 mg/g)*1/(3.785 l/gal) = 53 mg SO2/l
+
+That dosage seems reasonable.
+
+E. C. Kraus claims that 1 gram of powder will impart 238 ppm of sulfite to a gallon of liquid.
+It seems that E. C. Kraus assumes that approximately 90% of potassium metabisulfite powder by mass converts to free sulfite in solution.
+That estimate is incorrect judging from the formula mass of potassium metabisulfite.
+I think the estimate of 57% is more reasonable, so I will use that estimate.
+
+--------------------------------------------------
+19 February 2017
+
+Potassium Metabisulfite
+http://winemakersacademy.com/potassium-metabisulfite-wine/
+http://winemakersacademy.com/potassium-metabisulfite-additions/
+
+
+--------------------------------------------------
+14 February 2017
+
+
+It might be a good idea to purchase some adhesive foam padding (about 0.5 cm thick) to pad the bottom and sides (maybe) of the glass fermenter.
+
+----------
+
+I deliberated on the decision to store my wine either in wine bottles with corks or in champagne bottles with metal crown caps.
+I found an article discussing the comparative advantages of corks and alternative caps and containers (http://winefolly.com/tutorial/corks-vs-screw-caps/).
+
+While corks are a natural, renewable product, there is a limit to their availability and production.
+Also, cork is not recyclable.
+As wine production increases globally, there is a limit in the availability of cork.
+Quality corks are expensive, costing as mucy as $0.50 a piece.
+Corks of poor quality seal poorly and can introduce contaminants to the wine.
+While many people consider cork to be superior for aging wine (breathability), gas exchange is extremely variable across different corks.
+In contrast to cork, there is hardly a limit on production of metal caps.
+Metal caps are also recyclable.
+Metal caps are inexpensive, about $0.05 a piece.
+Metal caps and other caps and containers can have predictable and consistent breathability.
+Wine aging studies with metal caps have shown favorable results.
+
+For the sake of affordability and simplicity for me as a home-vintner, I consider metal crown caps on champagne bottles to be a prudent option for containing and storing my wine.
+
+--------------------------------------------------
+12 February 2017
+
+http://winemakersacademy.com/pectic-enzymes-wine/
+Add pectic enzyme during maceration of fresh fruit and about 12 hours before adding sulfite.
+The sulfite can interfere with action of pectic enzyme.
+
+https://winemakermag.com/1013-creating-a-balanced-must
+Must for wine should have a pH of 3.4-3.8.
+To decrease pH, add tartaric acid, citric acid, or malic acid.
+To increase pH, I think you can use sodium bicarbonate.
+
+Equipment
+1. Fermenter, 25-liter (7 gallon)
+-Kegco 7-Gallon Wide Mouth Glass Carboy
+--https://www.amazon.com/Kegco-Gallon-Carboy-Fermenter-Homebrew/dp/B01ANDX4WO/ref=sr_1_9?s=kitchen&ie=UTF8&qid=1486934149&sr=1-9&keywords=fermenter
+--https://www.amazon.com/Kegco-Gallon-Carboy-Fermenter-Homebrew/dp/B01ANDX4WO/ref=sr_1_2?ie=UTF8&qid=1472614095&sr=8-2&keywords=carboy+glass+wide
+--Purchase from Amazon for free shipping if ordering along with airlock and metabisulfite.
+2. Airlock
+-https://www.amazon.com/Twin-Bubble-Airlock-Carboy-Bung/dp/B00A6TRKO4/ref=sr_1_3?ie=UTF8&qid=1486935738&sr=8-3&keywords=airlock
+-Stopper
+--I need a drilled #3 rubber stopper for the Kegco.
+--https://www.amazon.com/Rubber-Stopper-Size-3-Drilled/dp/B006O2D6B8/ref=sr_1_2?ie=UTF8&qid=1486935440&sr=8-2&keywords=stopper+%233
+3. Hydrometer
+-Triple Scale for low alcohol (beer and wine)
+-Goodmans
+--https://www.amazon.com/Triple-Scale-Hydrometer-Test-Jar/dp/B01DUPMZJK/ref=sr_1_7?ie=UTF8&qid=1486938525&sr=8-7&keywords=hydrometer
+4. Siphon
+-Racking Cange
+-Tubing
+--https://www.amazon.com/Regular-Auto-Siphon-feet-Tubing/dp/B00AYHS7ZY/ref=sr_1_4?ie=UTF8&qid=1486940953&sr=8-4&keywords=wine+siphon
+5. pH Strips
+-https://www.amazon.com/Wine-Making-Strips-2-8-4-4-Range/dp/B00DDWR4AQ/ref=sr_1_1?ie=UTF8&qid=1486947489&sr=8-1&keywords=ph+wine
+6. Potassium Metabisulfite
+-https://www.amazon.com/Home-Brew-Ohio-4X-LBIR-PLL9-Metabisulfite/dp/B0064O9FB6/ref=sr_1_1?ie=UTF8&qid=1486943550&sr=8-1&keywords=wine+metabisulfite
+7. Pectic Enzyme
+-https://www.amazon.com/Pectic-Enzyme-powder-1-lb/dp/B0064GZQ2G/ref=sr_1_1?ie=UTF8&qid=1486943599&sr=8-1&keywords=pectic+enzyme
+8. Bottle Crown Caps, 26 mm
+-https://www.amazon.com/Home-Brew-Ohio-PI-0V33-JSZX-Bottle/dp/B00023B72U/ref=sr_1_4?ie=UTF8&qid=1486948362&sr=8-4&keywords=bottle+cap+26
+9. Bottle Crown Caps, 29 mm
+-https://www.amazon.com/29mm-European-Bottle-Caps-Count/dp/B0064OE9LW/ref=sr_1_1?ie=UTF8&qid=1486948427&sr=8-1&keywords=bottle+cap+29
+
+
+8. Beer/Wine Thief
+
+Champagne bottles
+
+Ingredients
+Wine Yeast
+-Lower alcohol tolerance, around 12 % by volume
+-High flocculation
+
+--------------------------------------------------
+14 January 2017
+
+The Hive Winery
+1220 West Jack D Drive
+Unit 2
+Layton, Utah 84041
+1-801-546-1997
+http://www.thehivewinery.com/default.html
+Jay and Lori Yahne
+
+I visited The Hive Winery with Carolina Nobre and Alex Bigelow.
+I tasted several wines.
+My favorite wine was the "Pioneer Red" black currant wine.
+This wine was the most like a red grape wine that The Hive Winery offered.
+The dry peach wine was reminiscent of my batch of peach wine.
+The sweet peach wine was too sweet for my taste.
+Jay gave me a tour of the winery.
+Jay recommended fermenting peach wine on the must for a long time to extract flavor from the must.
+Jay also recommended using champagne yeast.
+
+--------------------------------------------------
+23 December 2016
+
+The Hive Winery
+1220 West Jack D Drive
+Unit 2
+Layton, Utah 84041
+1-801-546-1997
+http://www.thehivewinery.com/default.html
+Jay and Lori Yahne
+
+Tour of the winery.
+Shadow during wine-making.
+Where do they get their fruit?
+Do they know of any wine-making clubs in Utah?
+Have they ever tried rooibos in wine?
+
+--------------------------------------------------
+17 December 2016
+
+----------
+Herb Wine
+----------
+
+http://www.motherearthliving.com/cooking-methods/a-worty-wine-is-a-worthy-wine
+
+"Basic Worty Wine"
+http://www.motherearthliving.com/cooking-methods/a-worty-wine-is-a-worthy-wine-basic
+
+I would like to make a rooibos wine following the basic recipe.
+
+----------
+Rooibos Ale
+----------
+
+----------
+
+https://dangerousmanbrewing.wordpress.com/2013/12/31/red-rooibos-with-vanilla/
+Red Ale with Rooibos and Vanilla
+The red ale is less hoppy than modern American pale ales.
+
+----------
+
+Nick Mulgrew's proportion is essentially full strength rooibos.
+He uses 3 teaspoons of rooibos for 500 milliliters of wort, or 190 grams of rooibos for 15 liters of wort.
+Use 1.5 teaspoons rooibos (determine the mass) per 150 milliliters of liquid, and steep thoroughly.
+
+https://www.homebrewersassociation.org/how-to-brew/crafting-a-uniquely-south-african-homebrew/
+Rooibos Ale
+Nick Mulgrew
+For each 1 liter of wort, steep 6 teaspoons of rooibos at 80 degrees Celsius.
+"Cape Rooibos Ale"
+"
+Ingredients for 4 US gallons (15.1 L)
+
+7.7 lb (3.5 kg) | pale malt
+0.35 oz (10 g) | Southern Dawn pellet hops, 11% AA (60 minutes)
+0.18 oz (5 g) | Southern Dawn pellet hops, 11% AA (45 minutes)
+0.35 oz (10 g) | H1/7 ground hops, unknown AA (5 minutes)
+0.88 oz (25 g) | H1/7 ground hops, unknown AA (0 minutes)
+6.7 oz (190 g) | Rooibos
+Fynbos Honey (enough to bottle prime)
+Safale US-05
+Directions
+
+Mash malt at 156°F (69°C) for one hour. Conduct a 60 minute boil, following the hop schedule above. Add the rooibos when the temperature drops to 176°F (80°C). If using a wort chiller, allow the rooibos to steep for 10 minutes before continuing to cool the wort.
+
+Ferment in primary for 4-5 weeks. Carbonate to 2.8-3.0 volumes using fynbos honey.
+"
+
+--------------------------------------------------
+29 November 2016
+
+https://www.baderbrewing.com/content/how-make-wine-concord-table-grapes
+
+Concord grapes have greater acidity and lesser sugar than other wine grapes.
+
+White Wine
+Press juice from skins and pulp of grapes.
+Separate juice from skins and pulp of grapes.
+Ferment must at a lesser temperature.
+
+(Light) Red Wine
+Press juice from skins and pulp of grapes.
+Separate juice from most of the skins and pulp of grapes.
+Separate juice from all skins and pulp earlier than normal, after a few hours.
+Ferment must at a lesser temperature.
+
+Red Wine
+Press juice from skins and pulp of grapes.
+Keep juice with skins and pulp of grapes.
+Ferment must at a greater temperature.
+
+Dilute grape juice with water.
+Measure pH of must.
+Adjust pH with sodium bicarbonate to reduce acidity.
+Measure sugar of must with hygrometer.
+Add sugar to specific density.
+Avoid too much sugar, since excessive alcohol will obscure fruit flavor.
+
+Equipment Wish List
+Fermenter, 7 gallon (to allow room for foam)
+Hygrometer with Tube
+Beer/Wine Thief
+pH Strips
+Siphon
+Campden or Metabisulfite
+Champagne bottles
+Bottle Crown Caps, 26 mm and 29 mm
+Pectic Enzyme
+Stabilizer mentioned in the article?
+
+
+Ingredients
+Wine Yeast
+-Lower alcohol tolerance, around 12 % by volume
+-High flocculation
+
+
+
+--------------------------------------------------
+16 October 2016
+
+I found a nice article in "Winemaker Magazine" about making wine from Concord grapes.
+
+The article describes methods to prepare different types of wines from Concord grapes.
+The article also gives advice on the amount of sugar to add.
+
+To prepare red wines, ferment the juice with the skins of the grapes at a greater temperature.
+To prepare white wines, ferment the juice without the skins of the grapes at a lesser temperature.
+
+Especially since Concord grapes are very strong, follow the recommendations to ferment at a lesser temperature.
+Also consider separating the juice from the skins before or early on in the fermentation process.
+Also follow the recommendation to use pectic enzyme.
+
+--------------------------------------------------
+31 August 2016
+
+I realized that I will not actually need a bottle capper.
+I can just purchase the bells for the capper and then use them with a hammer to tap the cap on gently.
+I will need a 26 mm bell to cap most beer bottles and a 29 mm bell to cap champagne bottles.
+Capper bells only cost about $5 instead of $50 for a low-quality capper.
+
+--------------------------------------------------
+30 August 2016
+
+I am learning about sulfites and their role in wine-making.
+
+http://www.thekitchn.com/the-truth-about-sulfites-in-wine-myths-of-red-wine-headaches-100878
+
+As I understand it, there is little reason not to use sulfites in wine-making.
+The sulfites inhibit growth of undesirable wild bacteria and yeasts.
+The sulfites also inhibit oxidation and help to preserve the wine during storage.
+
+I do not think that there is a good reason to use metabisulfite in tablet form rather than in powder form.
+
+malolactic fermentation
+
+Carboy
+Kegco 7-Gallon Wide Mouth Glass Carboy
+-Purchase from Amazon for free shipping if ordering along with airlock and metabisulfite.
+https://www.amazon.com/Kegco-Gallon-Carboy-Fermenter-Homebrew/dp/B01ANDX4WO/ref=sr_1_2?ie=UTF8&qid=1472614095&sr=8-2&keywords=carboy+glass+wide
+
+Airlock
+I need a drilled #3 rubber stopper for the Kegco.
+
+Metabisulfite
+https://www.amazon.com/Sodium-Metabisulfite-Homebrew-Wine-Making/dp/B015VICM2Y/ref=sr_1_7?ie=UTF8&qid=1472614265&sr=8-7&keywords=metabisulfite
+
+Pectic Enzyme
+
+
+--------------------------------------------------
+23 August 2016
+
+I found a recipe for crab apple wine, and thought that it would be useful to keep a record of it.
+
+Crap Apple Wine
+Foraged Foods
+http://foragedfoods.co.uk/crab-apple-wine-recipe/
+
+4 kilograms of crab apples
+1 kilogram of sugar
+300 grams of raisins
+yeast
+
+Supposedly the fermentation of the crab apple must takes a long time, several months.
+
+I can cap Champagne bottles, but I need the correct size of caps (29 mm, I think) and the correct size of capper bell to fit the caps.
+
+http://www.northernbrewer.com/29mm-gold-crowns-100-ct-large-european-size
+
+--------------------------------------------------
+16 August 2016
+
+Peach Wine
+
+For fermentation in the longer-term, I stored the must in a place away from light at a temperature of about ___ degrees Celsius. Lesser temperature (7-15 degrees Celsius) preserves aromas from the must and allows the yeast to survive greater abundance of alcohol.
+
+Concord Grape Wine
+
+For fermentation in the longer-term, I stored the must in a place away from light at a temperature of about ___ degrees Celsius. Lesser temperature (7-15 degrees Celsius) preserves aromas in the must and allows the yeast to survive greater abundance of alcohol.
+
+--------------------------------------------------
+15 August 2016
+
+Peach Wine
+
+I allowed the peach mixture to cool to 25.5 degrees Celsius gradually over about 15 hours.
+
+I learned that while previous rehydration in warm water increases the recovery of the dry yeast, sprinkling yeast directly on the must is less likely to introduce error.
+I added 5 grams of Premier Blanc Champagne Yeast by Red Star (fresh packet, expiration date January 2019) to the surface of the peach mixture.
+I added equal portions of the yeast to each container of peach mixture.
+Within 3 hours of pitching the yeast on the must, rising bubbles were visible, and the surface of the must was frothy and foamy.
+
+I wraped the lids of the jars with plastic wrap so that oxygen could not reach the wine, but carbon dioxide could still escape.
+
+During the first 24 hours of fermentation, I kept the must at 23-27 degrees Celsius. This greater temperature (21-30 degrees Celsius) favors rapid fermentation and might be beneficial to allow the wine yeast to dominate over any contaminating species in the must. Actively rising bubbles of gas from fermentation were visible in the must.
+
+Concord Grape Wine
+
+I allowed the grape mixture to cool to 25.5 degrees Celsius gradually over about 15 hours.
+
+I learned that while previous rehydration in warm water increases the recovery of the dry yeast, sprinkling yeast directly on the must is less likely to introduce error.
+I added (5 grams per 15 liters) Premier Blanc Champagne Yeast by Red Star (fresh packet, expiration date January 2019) to the surface of the grape mixture.
+I added equal portions of the yeast to each container of grape mixture.
+Within 3 hours of pitching the yeast on the must, rising bubbles were visible, and the surface of the must was frothy and foamy.
+
+I wraped the lids of the jars with plastic wrap so that oxygen could not reach the wine, but carbon dioxide could still escape.
+
+During the first 24 hours of fermentation, I kept the must at 23-27 degrees Celsius. This greater temperature (21-30 degrees Celsius) favors rapid fermentation and might be beneficial to allow the wine yeast to dominate over any contaminating species in the must. Actively rising bubbles of gas from fermentation were visible in the must.
+
+--------------------------------------------------
+14 August 2016
+
+Peach Wine
+
+http://www.motherearthliving.com/food-and-recipes/recipes/peach-wine-recipe-ze0z1311zjhar.aspx
+https://www.homebrewit.com/peach-wine-recipes/
+
+Big red bowl is about 1 kilogram.
+
+I started with about 2.5 kilograms (5.5 pounds) peaches.
+I washed the peaches and removed bruises, other injuries, and pits.
+I left the skins on the peaches.
+After cleaning and removing pits, there were about 2.5 kilograms of peach flesh.
+I mashed the peaches in a bowl using a potato masher.
+I covered the peach must loosely with plastic wrap.
+I let the peach must sit at 20 - 25 degrees Celsius for about 2 hours while I figured out subsequent steps.
+
+I prepared 500 milliliters of Red Rooibos herbal infusion by steeping 1 tablespoons in 500 milliliters of boiling water for 5 minutes.
+This infusion contributes tannin to the wine.
+I squeezed the juice from 3 lemons (11 tablespoons) into the infusion.
+I added 8 litres of clean water to the infusion.
+I added 2 kilograms (about 10 cups) of white sugar to the water.
+I let the sugar dissolve in the water.
+I added the peach mash must to the sugar water.
+I heated the mixture at boiling temperature for 10 minutes or more to sterilize it.
+I preheated glass jars gradually by heating them in water to boiling in a pot.
+I transferred the hot peach mixture to jars for primary fermentation.
+I placed clean lids loosely over the peach mixture.
+I allowed the peach mixture to cool to 20 - 25 degrees Celsius gradually over about 15 hours.
+
+In this procedure, I prepared 15 liters of peach must.
+
+...
+
+I continued the procedure on 15 August 2016
+
+Concord Grape Wine
+
+http://winemaking.jackkeller.net/reques10.asp
+
+I washed grapes.
+I removed grapes from stems.
+I started with 700 grams (1.5 pounds) of grapes.
+
+I mashed the grapes in a bowl using a potato masher.
+I covered the grape must loosely with plastic wrap.
+I let the grape must sit at 20 - 25 degrees Celsius for about 1 hour while I figured out subsequent steps.
+
+I prepared 125 milliliters (0.5 cup) of Red Rooibos herbal infusion by steeping 1 teaspoon in 125 milliliters of boiling water for 5 minutes.
+This infusion contributes tannin to the wine.
+
+I added 625 milliliters (2.5 cups) of clean water to the infusion.
+
+I added 200 grams (about 1 cup) of white sugar to the water.
+I let the sugar dissolve in the water.
+I added the grape mash must to the sugar water.
+I heated the mixture at boiling temperature for 10 minutes or more to sterilize it.
+I preheated glass jars gradually by heating them in water to boiling in a pot.
+I transferred the hot grape mixture to jars for primary fermentation.
+I placed clean lids loosely over the grape mixture.
+I allowed the grape mixture to cool to 20 - 25 degrees Celsius gradually over about 15 hours.
+
+In this procedure, I prepared 2 liters of grape must.
+
+...
+
+I continued the procedure on 15 August 2016.
+
+-----
+
+http://winemakersacademy.com/
+http://winemaking.jackkeller.net/index.asp
+http://winemaking.jackkeller.net/reques10.asp
+https://winemakermag.com/your-first-wine-from-fresh-grapes
+http://homebrewacademy.com/how-to-make-plum-wine/
+http://www.food.com/recipe/wild-grape-wine-38780
+I like this recipe for Wild Grap Wine from Gramma Pat.
+
+Wash wild grapes. Leave grapes on stems. Cover grapes and stems in just enough water to cover them. Boil wild grapes and stems until the skins on the grapes pop. Mash the grapes in the water. Strain the juice from the pulp, seeds, and stems using a strainer and cloth. Keep the juice. Discard pulp, seeds, and stems. Measure the volume of the juice. Add sugar and water in equal volumes to the volume of juice. If you have 1 gallon of juice, add 1 gallon of sugar and 1 gallon of water. That seems like a lot of sugar to me. I recommend consulting some other recipes. Add yeast (on top of a piece of bread, that is strange). Let wine ferment for multiple periods of 3 days, straining between each period. Apparently there is no need to seal the fermenting wine from the air. It is only necessary to cover loosely.
+
+http://www.organicauthority.com/juicy-spirits/how-to-make-heavenly-homemade-fruit-wines.html
+
+The article from "www.organicauthority.com" recommends freezing and boiling fruit instead of using Campden tablets in order to sterilize must organically. I personally like the idea of boiling for sterlization rather than using a Campden tablet. Apparently boiling can release pectin from the must and make the wine hazy, but I do not think that problem is very serious.
+
+4 pounds ripe fruit
+1 gallon water
+2 pounds sugar
+1 teaspoon yeast nutrient
+1 package wine yeast
+
+1 pound of sugar is about 2 cups of granulated sugar.
+
+I wonder if I could skip the yeast nutrient. I have read about using tannin from tea. I could add a little herbal infusion to give tannin.
+
+Here is what I think I will do.
+
+Harvest grapes. Remove grapes from stems. Measure mass of graps. Wash grapes. Mash grapes in a clean pot. Add 1 quart of water for every 1 pound of grapes. Boil grape mash must in water for ___ minutes. Add 0.5 pound sugar for every 1 pound of grapes. Allow must to cool. Strain pulp, seeds, and skins from juice. Place juice in clean container for fermentation. Add yeast.
+
+I wonder if I should instead allow fermentation to begin with the pulp, seeds, and skins. It seems like a lot of recipes begin fermentation on the must for some reason. Maybe the pulp, seeds, and skins contribute tannins or something. Then again, boiling the must probably releases any tannins effectively.
+
+The purpose of boiling is to kill any wild yeast or bacteria on the fruit. Boiling is an alternative to using a Campden tablet. Neither boiling nor Campden is necessary according to traditional wine-making. It is more of a precaution. The disadvantage of boiling is that it might damage the fruit juice, or it might release materials from the must that are not desirable. An example is pectin, which makes the wine hazy.
+
+
+--------------------------------------------------
+20 July 2016
+
+http://lovelygreens.com/2013/06/diy-homesteading-making-your-own.html
+
+This blog gives recipes for a variety of country wines.
+
+
+--------------------------------------------------
+14 May 2016
+
+There are lots of recipes for grain wines. Wheat wine is
+traditional to Whales. I think if I make one of these
+recipes, I would like to try mashing the wheat thoroughly
+and using less processed sugar.
+
+Apparently grain wine is similar to whisky. Whisky is
+basically distilled grain wine.
+
+http://www.backwoodshome.com/making-delicious-unthinkable-wines/
+In addition to common grape wines, there are non-grape
+wines, called country wines or something wines. These
+country wines include fruit wines, flower wines,
+vegetable wines, grain wines, herb wines, and other
+wines. Traditional wine making can be very simple.
+Mash ingredients together, introduce yeast, and allow
+fermentation to proceed until the culture stops producing
+carbon dioxide gas. At that point the yeast has stopped
+fermenting, either because the yeast ran out of sugar or
+because the content of alcohol or other waste became so
+high that it killed the yeast.
+
+--------------------------------------------------
+13 May 2016
+
+Malting, Mashing, Saccharification
+http://homedistiller.org/grain/wash-grain/malting

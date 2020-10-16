@@ -1,0 +1,156 @@
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Apple Cider 2020
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Plan...
+
+- ferment to completion until cider is mostly still without bubbles
+- primary rack from yeast lees and apple sediment to a clean carboy
+- add a small dosage (1 teaspoon?) of acid blend
+- add 1 Campden tablet
+- age cider for 1 month
+- order bottles and Fuggel hops from Northern Brewer
+- add 1 ounce of Fuggel hops to cider for 7 days
+- secondary rack from hops and other sediment
+- measure density with hygrometer
+- age cider for 1 month
+- tertiary rack
+- add 1 Campden tablet
+- age cider for 1 month
+- add a very small quantity of Stevia to taste (before adding priming sugar)
+- add priming sugar
+- bottle cider
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Summary
+
+Sugar adjustment: 29 September 2020
+- initial specific gravity: 1.070
+Fermentation start: 30 September 2020
+Primary rack: 15 October 2020
+Secondary rack: 15 November 2020?
+
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+15 October 2020
+
+Primary rack
+I siphoned the cider to a clean glass carboy with care to avoid most of the yeast lees and other sediment.
+
+Sulfite
+I added 1.1 grams (2 Campden tablets) of potassium metabisulfite to the 10 liters of cider.
+
+Acid blend
+I added 0.75 teaspoon of acid blend to the cider. I used a crystalline blend of citric, malic, and tartaric acid by LD Carlson.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+13 October 2020
+
+At 9:55, while the cider was at a temperature of about 20 degrees Celsius, the rate of bubbles was 3 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 3 minutes.
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+4 October 2020
+
+At 9:20, while the cider was at a temperature of about 19 degrees Celsius, the rate of bubbles was 119 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 1 minutes.
+
+I placed the cider outside from 9:30-21:00 where the temperature ranged between 4-11 degrees Celsius.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+3 October 2020
+
+At 8:20, while the cider was at a temperature of about 19 degrees Celsius, the rate of bubbles was 84 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 3 minutes.
+
+I placed the cider outside from 8:30-20:00 where the temperature ranged between 4-10 degrees Celsius.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+2 October 2020
+
+I placed the cider outside from 7:45-21:00 where the temperature ranged between 0-8 degrees Celsius.
+
+At 14:20, the rate of bubbles was 28 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 3 minutes.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+1 October 2020
+
+I placed the cider outside from 10:00-19:45 where the temperature was 7-11 degrees Celsius.
+At 12:15, the rate of bubbles was 31 per minute.
+At 19:50, the rate of bubbles was 33 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 3 minutes.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+30 September 2020
+
+After periodically mixing the sugar by swirling the 2 gallons of cider, there was no more visible granular sugar in the bottom of the carboy.
+
+I added the remaining cider to bring the total volume to about 10 liters in the glass carboy.
+
+I let the the cider rest for 6 hours (12:00-18:00) to allow the solution to mix and homogenize the dissolved sugar.
+
+I measured the specific gravity. The temperature of the cider was approximately 70 degrees Fahrenheit, and the raw measurement on the hydrometer was 1.068. After temperature correction, the specific gravity was 1.070. This was the initial specific gravity before fermentation.
+
+At 19:00, I sprinkled 5 grams of Premier Blanc by Red Star champagne yeast on top of the cider in the glass carboy. I then attached a bung and air lock.
+
+I placed the cider outside from 20:00 - 22:00 where the temperature was 9 degrees Celsius.
+At 22:00 I placed the cider inside where the temperature was 20 degrees Celsius.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+29 September 2020
+
+----------
+Reference
+
+Refer to general fermentation notes ("note_fermentation.txt") from 29 September 2020 for general notes and calculations.
+
+----------
+Goal
+
+volume: 10 liters
+alcohol concentration: 9 % by volume
+initial sugar concentration: 209 grams per liter
+initial specific gravity (relative to water): 1.067
+
+----------
+Sugar addition
+
+I purchased 3 gallons of fresh, pasteurized apple cider by River Ridge Produce in Sparta Michigan. The label claims that there are 26 grams of natural sugar per 240 milliliters. This hypothetical amount of sugar converts to 108 grams per liter.
+
+I measured the specific gravity while the cider was about 60 degrees Fahrenheit: 1.052. This specific gravity ought to correspond to about 22 ounces (624 grams) sugar per gallon (3.79 liters), or 165 grams of sugar per liter.
+
+I wanted to bring the total sugar content to 209 grams sugar per liter. I needed to add 44 grams of sugar per liter, or 440 grams of sugar in total for 10 liters. As 1 cup of sugar has a mass of 150-250 grams (https://www.traditionaloven.com/conversions_of_measures/sugar_amounts.html), I added 2.5 cups of granulated organic cane sugar.
+
+I combined the sugar with about 2 gallons of cider and mixed periodically for about 16 hours.
+
+----------
+Potassium metabisulfite (Campden) addition
+
+Refer to general fermentation notes and calculations on 26 February 2017.
+
+For a final concentration of about 60 mg/l of free sulfites in solution, I added 1.1 grams (2 Campden tablets) of potassium metabisulfite to the 10 liters of cider. As the cider is much simpler than a raw must, I think this concentration ought to suffice. Plan to add more metabisulfite to a target concentration of 30 mg/l after fermentation and before bottling.
+

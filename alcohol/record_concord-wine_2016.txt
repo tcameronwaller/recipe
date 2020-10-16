@@ -1,0 +1,313 @@
+--------------------------------------------------
+Alcohol Batch Record
+Concord Wine 2016
+--------------------------------------------------
+
+--------------------------------------------------
+15 December 2018
+
+----------
+
+The flavor of the wine mellowed dramatically. It tasted much less acidic, more smooth, and had more balance.
+
+--------------------------------------------------
+22 October 2017
+
+----------
+Bottle
+
+I sealed the wine in 31 clean bottles, each of 750 milliliters capacity.
+
+----------
+Sulfite
+
+I will add enough metabisulfite for 25 mg/L of sulfite.
+To 27 liters of wine (the volume in the main fermenter), I will add 2.2 grams (4 x 0.55 grams) of potassium metabisulfite.
+That addition is theoretically sufficient to impart about 40 mg/L of sulfite to the wine.
+
+----------
+Taste
+
+The wine had a very pleasant aroma and flavor.
+The taste was very mild.
+
+----------
+Rack
+
+I transferred the wine by siphon, avoiding the majority of sediment.
+After the transfer, about 27 liters of wine remained.
+
+----------
+pH
+
+I never added sodium bicarbonate to the main batch of wine.
+
+--------------------------------------------------
+25 June 2017
+
+----------
+pH
+
+I added about 0.5 grams (about 0.42 milliliters, 1/12 teaspoon) of sodium bicarbonate to 1 liter of wine.
+The aroma and flavor of the wine seemed more mild and less caustic that it did originally.
+
+I anticipate adding 0.5 g/L of sodium bicarbonate to the entire batch of 2016 Concord wine.
+
+----------
+Sodium Bicarbonate Measurement
+
+A volume of 250 milliliters of sodium bicarbonate has a mass of 320 grams.
+250 mL = 320 g
+1.28 g/mL
+
+--------------------------------------------------
+30 May 2017
+
+----------
+pH
+
+I measured the pH of the wine on a meter of current calibration and reliable accuracy.
+The initial pH of the wine was 3.488.
+
+To 500 milliliters of wine, I added 0.5 grams of sodium bicarbonate.
+The final pH of the wine after addition of the sodium bicarbonate was 3.842.
+
+--------------------------------------------------
+6 May 2017
+
+----------
+Taste
+
+The wine had a very pleasant aroma and flavor.
+The taste was very mild.
+
+----------
+Rack
+
+I transferred the wine by siphon, avoiding the majority of sediment.
+After the transfer, about 30 liters of wine remained.
+I transferred 1.5 liters of the wine to bottles for early consumption.
+The remaining 28.5 liters of wine I stored for further settlement and maturation.
+
+----------
+Sulfite
+
+On 19 March 2017, I added 7.15 grams of potassium metabisulfite (13 tablets at 0.55 grams per tablet) to about 40 liters of must.
+That addition is theoretically sufficient for about 100 milligrams of sulfite per liter (mg/L).
+Refer to my calculations in general notes on 26 February 2017.
+As this addition was to must with an abundance of sugars and other chemicals, I expect that a lot of this sulfite reacted with chemicals in the must.
+
+It is reasonable that the concentration of sulfite in the wine has decreased considerably since 19 March 2017.
+It is also likely that 1 or more months of time will pass before I transfer the wine to bottles.
+I will add enough metabisulfite for 25 mg/L of sulfite.
+To 27 liters of wine (the volume in the main fermenter), I will add 1.1 grams of potassium metabisulfite.
+That addition is theoretically sufficient to impart about 23 mg/L of sulfite to the wine.
+
+----------
+Measurement
+
+I measured the specific gravity and pH of the wine.
+
+Specific Gravity
+0.988 at about 20 degrees Celsius
+0.990 with correction for temperature
+
+pH
+3.6
+
+On 19 March 2017, the specific gravity of the must was about 1.095 (1.085-1.100) grams per milliliter (g/mL).
+That specific gravity corresponds to 12.4 percent potential alcohol by volume.
+Today, the specific gravity of the wine was 0.990 g/mL.
+That specific gravity corresponds to -1.3 percent potential alcohol by volume.
+The total potential alcohol in the wine is 13.7 (12.4 - (-1.3)) percent potential alcohol by volume.
+
+----------
+Ingredients
+
+Potassium Metabisulfite: 0.55 gram tablets, LD Carlson
+
+--------------------------------------------------
+27 March 2017
+
+The temperature of the room around the must was 15 degrees Celsius.
+The must was bubbling actively.
+
+--------------------------------------------------
+26 March 2017
+
+The temperature of the room around the must was 19 degrees Celsius.
+The must was bubbling actively.
+
+I removed large solid material from the wine.
+The total volume of wine was about 35 liters.
+I transferred 28 liters of the wine to a glass fermenter and transferred the remainder to plastic bottles.
+
+--------------------------------------------------
+25 March 2017
+
+The temperature of the room around the must was 12 degrees Celsius.
+The must was bubbling less actively than before.
+
+--------------------------------------------------
+24 March 2017
+
+The temperature of the room around the must was 10 degrees Celsius.
+The must was bubbling less actively than before.
+
+--------------------------------------------------
+23 March 2017
+
+The temperature of the room around the must was 13 degrees Celsius.
+The must was bubbling audibly.
+
+I collected 50 milliliters (container 1: 30 ml, container 2: 20 mL) of the wine must.
+I measured the pH of this must on a digital pH meter.
+The pH measurement was 3.30.
+This measurement might not be very reliable because fermentation was very active in the must at the time of measurement.
+Carbon dioxide from fermentation might have interfered with the measurement.
+
+It is common for the pH of the must to decrease during fermentation.
+The pH of the must might increase after fermentation.
+
+Plan to measure the pH of the wine after fermentation and also after any dilution by addition of water.
+
+As the wine will be dry with very little residual sugar, I do not want the wine to be too tart.
+I want a pH around 3.7, the maximal value for typical red wine.
+
+https://winemakermag.com/1013-creating-a-balanced-must
+
+--------------------------------------------------
+22 March 2017
+
+The temperature of the room around the must was 15 degrees Celsius.
+The must was bubbling audibly.
+
+--------------------------------------------------
+21 March 2017
+
+The temperature of the room around the must was 15 degrees Celsius.
+The must was bubbling audibly.
+
+--------------------------------------------------
+20 March 2017
+
+----------
+Procedure
+
+I sprinkled 10 grams (container 1: 5 grams, container 2: 5 grams) of yeast on the surface of the wine must.
+
+At the time of innoculation, the must was in a room with a temperature of 16 degrees Celsius.
+I covered the must in the bucket losely with a lid.
+I allowed the must to rest at 15-20 degrees Celsius for 5 days.
+
+----------
+Ingredients
+
+Yeast: Premier Blanc Champagne Yeast, expiration date January 2019, Red Star
+
+----------
+Notes
+
+Wine yeast can survive temperatures of 4-37 degrees Celsius (40-100 degrees Fahrenheit).
+Cooler fermentation temperatures of 4-20 degrees Celsius (40-70 degrees Fahrenheit) decrease the rate of fermentation and preserve aromatic components in the wine.
+Cooler fermentation temperatures are ideal for fruity white wines.
+Warmer fermentation temperatures of 10-27 degrees Celsius (50-80 degrees Fahrenheit) increase the rate of fermentation and might enhance extraction of pigments and tannins.
+Warmer temperatures are ideal for red wines.
+
+Even for a red wine with full flavor, cooler fermentation temperatures are better for Concord grapes.
+The cooler temperatures will reduce extraction of unpleasant aromas and flavors from the grapes' skins.
+
+----------
+References
+https://winemakermag.com/653-take-control-of-must-temperature-and-reap-the-benefits
+http://winemakersacademy.com/effects-fermentation-temperature-wine/
+http://www.eckraus.com/wine-making-101
+https://winemakermag.com/218-concord-varietal-focus
+
+--------------------------------------------------
+19 March 2017
+
+----------
+Plan
+
+To avoid over-dilution of wine, and to limit the volume of must in primary fermentation, do not add any water for dilution of the must until transfer to secondary fermenter.
+At this stage, add water to fill fermenter to its top.
+
+To balance color and flavor extraction while avoiding excessive muskiness from Concord grapes, remove skins and pulp from the must after about 3 days, a little earlier than the typical 5-7 days.
+
+----------
+Procedure
+
+Must, Grapes
+I removed grapes from storage at -20 degrees Celsius.
+I allowed grapes to thaw gradually, avoiding raising them to a temperature greater than about 37 degrees Celsius.
+I transferred grapes to a clean, food-grade, plastic bucket, my primary fermenter.
+I crushed grapes thoroughly using a clean piece of wood.
+
+Must, Additions
+
+I added 12 liters (3 gallons) of Concord Grape Juice to increase the volume of must to about 38 liters (10 gallons).
+
+I added 30 grams (10 teaspoons) of pectinase (pectic enzyme) to the must.
+This dose of pectinase was double the manufacturer's recommendation.
+
+For juice, about 1.5 pounds sugar.
+For grapes, about 2-10 pounds sugar.
+Start with 4 pounds sugar.
+
+I added 5.125 kilograms (container 1: 2.875, container 2: 2.250) of sugar to the must, until the specific gravity of the must was about 1.095 (1.085-1.100) grams per milliliter.
+Initial specific gravity of the must with grape juice was 1.043 g/mL.
+Final specific gravity of the must was 1.099 g/mL (container 1: 1.098, container 2: 1.100).
+At time of measurement, the temperature of the must was 64 +/- 5 degrees Fahrenheit (container 1: 59, container 2: 69).
+
+I added 0 grams of sodium bicarbonate to the must, until the pH of the must was about pH 3.5 (3.4-3.7).
+Initial measurement of pH (using test strips) was 3.6.
+
+I added 7.15 grams of potassium metabisulfite (13 tablets at 0.55 grams per tablet) to the must.
+The goal concentration of sulfite for wine must (as I calculated in general notes on 26 February 2017) is 75 milligrams per liter (mg/l).
+For this goal concentration, the dosage is 1.375 grams per 10 liters, or about 5.5 grams for 40 liters.
+I used an excessive dose, but not unreasonably so.
+
+Sterilization
+I covered the must in the bucket losely with a lid.
+I allowed the must to incubate at 20-25 degrees Celsius for 24 hours.
+
+----------
+Ingredients
+
+Concord Grape Juice: Concord Grape Juice Beverage ("filtered water, concord grape juice, cane sugar, grape juice (for color), citric acid (for tartness), natural flavor"), Welch's
+Pectinase (Pectic Enzyme): 75 units/gram, North Mountain Supply
+Potassium Metabisulfite: 0.55 gram tablets, LD Carlson
+
+----------
+
+From harvest in 2016, I have approximately 25 kilograms (55 pounds) of Concord Grapes.
+In order to make a wine with moderate to full body and flavor, 25 kilograms of Concord Grapes is sufficient for 17-24 liters of wine.
+The capacity of my secondary fermenter is about 27 liters.
+As it is unfavorable to leave air space in the secondary fermenter, I will use Concord grape juice from concentrate to fill surplus space in the fermenter.
+I might need up to 10 liters of supplemental Concord grape juice.
+
+Wines that are more acidic generally require more sugar so that the sweetness can moderate the acidity.
+Wines that are less acidic can be more dry.
+
+----------
+References
+https://www.baderbrewing.com/content/how-make-wine-concord-table-grapes
+http://www.eckraus.com/blog/how-to-make-homemade-concord-wine
+http://winemaking.jackkeller.net/reques10.asp
+https://winemakermag.com/218-concord-varietal-focus
+https://winemakermag.com/1013-creating-a-balanced-must
+http://www.eckraus.com/wine-making-concentrate-versus-grapes
+http://www.eckraus.com/blog/can-i-use-grape-juice-from-the-grocery-store-to-make-wine
+http://winemakersacademy.com/pectic-enzymes-wine/
+----------
+
+--------------------------------------------------
+11 September 2016
+
+----------
+Harvest
+
+On 11 September 2016, I harvested Concord grapes from the vines on the fence in our back yard. On 11 and 12 September 2016, I removed these grapes from the vines. Then I washed them in water. I placed 2.5 kilograms of grapes in plastic bags and stored them in the freezer at about -20 degrees Celsius. I prepared 10 bags of grapes. That means that I harvested, prepared, and stored 25 kilograms (55 pounds) of grapes!
+
+--------------------------------------------------
