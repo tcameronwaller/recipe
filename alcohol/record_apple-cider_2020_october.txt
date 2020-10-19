@@ -1,0 +1,73 @@
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Apple Cider: October 2020
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Summary
+
+Sugar adjustment: 18 October 2020
+- initial specific gravity: 1.075
+Fermentation start: 19 October 2020
+
+
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+19 October 2020
+
+
+
+I measured the specific gravity. The temperature of the cider was approximately 18 degrees Celsius (64 degrees Fahrenheit), and the raw measurement on the hydrometer was 1.074. After temperature correction, the specific gravity was 1.075. This was the initial specific gravity before fermentation. This specific gravity corresponds to potential alcohol of 9.8 % from complete fermentation.
+
+At 10:00, I sprinkled 5 grams of Premier Blanc by Red Star champagne yeast on top of the cider in the glass carboy. I then attached a bung and air lock.
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+18 October 2020
+
+----------
+Reference
+
+Refer to general fermentation notes ("note_fermentation.txt") from 29 September 2020 for general notes and calculations.
+
+----------
+Goal
+
+volume: 10 liters
+alcohol concentration: 9 % by volume
+initial sugar concentration: 209 grams per liter
+initial specific gravity (relative to water): 1.070
+
+----------
+Sugar addition
+
+I purchased 3 gallons of fresh, pasteurized apple cider by River Ridge Produce in Sparta Michigan. The label claims that there are 26 grams of natural sugar per 240 milliliters. This hypothetical amount of sugar converts to 108 grams per liter.
+
+From my apple cider batch that I started in September 2020, I knew that the actual density of this cider was about 1.052.
+
+I added 3.5 cups of granulated organic cane sugar.
+
+I combined the sugar with about 2 gallons of cider and mixed periodically until sugar dissolved. Then I filled the carboy with remaining volume of cider.
+
+----------
+Acid blend
+
+I added 0.75 teaspoon of acid blend to the cider. I used a crystalline blend of citric, malic, and tartaric acid by LD Carlson.
+
+----------
+Potassium metabisulfite (Campden) addition
+
+Refer to general fermentation notes and calculations on 26 February 2017.
+
+For a final concentration of about 60 mg/l of free sulfites in solution, I added 1.1 grams (2 Campden tablets) of potassium metabisulfite to the 10 liters of cider. As the cider is much simpler than a raw must, I think this concentration ought to suffice. Plan to add more metabisulfite to a target concentration of 30 mg/l after fermentation and before bottling.
+
