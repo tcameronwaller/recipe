@@ -6,6 +6,9 @@ Apple Cider: October 2020
 --------------------------------------------------
 --------------------------------------------------
 
+
+
+
 --------------------------------------------------
 --------------------------------------------------
 --------------------------------------------------
@@ -14,21 +17,51 @@ Summary
 Sugar adjustment: 18 October 2020
 - initial specific gravity: 1.075
 Fermentation start: 19 October 2020
+Dry hops: 4 November 2020
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Plan
 
+- back sweeten with <= 50 grams of erythritol per gallon of cider
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+4 November 2020
+
+Make: Northern Brewer
+Variety: UK Fuggle
+Alpha acid: 5.2%
+Aroma: "Pleasant mint, grassy, floral"
+Typical beer styles: "English Ale"
+Mass: 56.6 grams (2 ounces)
+
+At 19:00, I added 56.6 grams of pellet Fuggle hops from the United Kingdom to the 3 gallons of cider. The cider had enough carbon dioxide in solution that the particulate material triggered a slight eruption. This eruption wasted approximately 500 mL of cider and a fourth of the hops. With occasional stirring, the remaining hop particulate settled after a few days.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+22 October 2020
+
+Since starting fermentation on 19 October 2020, the cider has been at a temperature of 18 degrees Celsius.
+
+At 07:45, the rate of bubbles was 103 per minute.
+I counted major, distinguishable air expulsions as 1 bubble over the course of 3 minutes.
+
+I noticed that rapid fermentation expels larger volumes of air simultaneously. When the rate of bubbles is 100 per minute, each expulsion includes 2 or 3 bubbles. During slower fermentation, these bubbles I would count these bubbles separately because they would expel with more separation.
+
+A more accurate measure of fermentation rate would use the actual volume of carbon dioxide in an inverted graduated cylinder filled with water.
 
 --------------------------------------------------
 --------------------------------------------------
 --------------------------------------------------
 19 October 2020
 
-
-
 I measured the specific gravity. The temperature of the cider was approximately 18 degrees Celsius (64 degrees Fahrenheit), and the raw measurement on the hydrometer was 1.074. After temperature correction, the specific gravity was 1.075. This was the initial specific gravity before fermentation. This specific gravity corresponds to potential alcohol of 9.8 % from complete fermentation.
 
 At 10:00, I sprinkled 5 grams of Premier Blanc by Red Star champagne yeast on top of the cider in the glass carboy. I then attached a bung and air lock.
-
 
 --------------------------------------------------
 --------------------------------------------------

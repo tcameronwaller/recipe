@@ -4,6 +4,57 @@ General Notes
 --------------------------------------------------
 
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+6 November 2020
+
+----------
+Back sweetening cider with non-fermentable sugars for bottle carbonation
+
+Post from Calvyn Van Zyl on "Cider Making Enthusiasts" Facebook group
+
+"
+Hi Lindsay Scialdone Adams. This is what I do to produce a carbonated semi-sweet hard cider without the danger of creating bottle bombs:
+On 5 Gal, I add 250 grams Dried Malt Extract (DME) and 250 gram Maltodextrin which I dissolve in 2 l of my apple juice by heating the mixture to 85°C. I then let that cool down to about 50°C before I add it to the rest of my apple juice. I then pitch the yeast and allow this to ferment until FG reading remains constant for a few days, meaning that all fermentable sugar is completely fermented. I then rack the hard cider to a racking tank, adding 250 Grams of Erythritol to it. I then let this sit to clear for about 3 weeks at which stage I would prime it to 3X CO2/Vol (using a syrup made from 345gr brown sugar) and bottle the final product.
+After about 3 to 4 weeks, stored in a dark, cool place, the end product is around 6%ABV carbonated hard apple cider with a nice body and enough sweetness to be classified as a semi-sweet product.
+"
+
+Calvyn Van Zyl uses 50 grams of erythritol per gallon of cider.
+
+Erythritol occurs naturally, is very safe physiologically, and offers a comparable sweetness and body mouth feel to sucrose.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+2 November 2020
+
+----------
+Flavor enhancements for cider
+
+1. mild dry hops
+
+2. coriander reminiscence to a Belgian White
+https://www.woodchuck.com/blog-post/cider-makers-notebook-belgian-white-cider/
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+29 October 2020
+
+----------
+References on Potassium Metabisulfite
+
+See notes from 19 February 2017
+
+Potassium Metabisulfite
+http://winemakersacademy.com/potassium-metabisulfite-wine/
+http://winemakersacademy.com/potassium-metabisulfite-additions/
+http://www.eckraus.com/8-oz-potassium-metabisulfite.html
+https://winemakermag.com/629-should-i-add-campden-tablets-each-time-i-rack-my-wine-and-how-do-i-measure-the-level-of-sulfite-in-my-wine
+https://en.wikipedia.org/wiki/Potassium_metabisulfite
+
 
 --------------------------------------------------
 --------------------------------------------------
@@ -313,7 +364,6 @@ I think the estimate of 57% is more reasonable, so I will use that estimate.
 Potassium Metabisulfite
 http://winemakersacademy.com/potassium-metabisulfite-wine/
 http://winemakersacademy.com/potassium-metabisulfite-additions/
-
 
 --------------------------------------------------
 14 February 2017
