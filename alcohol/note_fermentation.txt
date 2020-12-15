@@ -3,6 +3,45 @@ Alcohol
 General Notes
 --------------------------------------------------
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+8 December 2020
+
+----------
+adjunct: oak
+
+Tom Chezem infuses with 20 grams of oak cubes per gallon of cider for 4-6 weeks.
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+6 December 2020
+
+----------
+Equipment for next batch
+
+- stainless steel, simple rack cane
+- 9 feet length of 5/16 inch diameter tubing
+
+----------
+Priming sugar calculation for bottle carbonation
+
+Refer to notes on priming sugar and bottle carbonation from 5 January 2019 and 26 May 2019.
+
+I want 3.5 bars pressure of carbonation.
+For 10 liters (about 2.6 gallons) of cider, I want 3.5 volumes or 35 liters of carbon dioxide.
+
+estimate 1 (www.homecidermaking.com): 100 grams of sucrose
+estimate 2 (www.northernbrewer.com): 95 grams of sucrose
+
+https://www.homecidermaking.com/cider-priming-sugar-calculator/
+https://www.northernbrewer.com/pages/priming-sugar-calculator
+
+The mass of 1 cup of granulated sugar is about 200 grams.
+
+
 
 --------------------------------------------------
 --------------------------------------------------

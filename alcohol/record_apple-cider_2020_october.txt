@@ -7,6 +7,13 @@ Apple Cider: October 2020
 --------------------------------------------------
 
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+Critique
+
+- how is the sweetness level?
+- how is the hops level?
 
 
 --------------------------------------------------
@@ -15,16 +22,75 @@ Apple Cider: October 2020
 Summary
 
 Sugar adjustment: 18 October 2020
-- initial specific gravity: 1.075
+Initial specific gravity: 1.075
 Fermentation start: 19 October 2020
 Dry hops: 4 November 2020
+Primary rack: 13 November 2020
+Final specific gravity: 0.993
+Potential alcohol: 9.8 - (-0.7) = 10.5 %v/v
+Back sweeten with non-fermentable sweetener: 30 grams erythritol per liter on 22 September 2020; 15 grams erythritol per liter on 29 November 2020
+Secondary rack: 26 November 2020
+Total sulfite addition: 1.65 grams (3 Campden tablets)
+Target carbonation: 3.5 bars (3.5 volumes of carbon dioxide)
+Priming sugar: 100 grams sugar in 10 liters cider
+Bottling: 6 December 2020
 
 --------------------------------------------------
 --------------------------------------------------
 --------------------------------------------------
-Plan
+6 December 2020
 
-- back sweeten with <= 50 grams of erythritol per gallon of cider
+Priming sugar
+I added 0.5 cup of granulated sugar, which ought to have a mass of approximately 100 grams. This amount of sugar in about 10 liters of cider ought to allow carbonation to about 3.5 bars of pressure (about 35 liters of carbon dioxide).
+
+https://www.homecidermaking.com/cider-priming-sugar-calculator/
+https://www.northernbrewer.com/pages/priming-sugar-calculator
+
+Bottling
+I siphoned the cider into bottles and capped them.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+29 November 2020
+
+Back sweeten
+I added approximately 150 grams of erythritol crystals (with Monk Fruit extract) (0.75 cups of crystals) to the 10 liters of cider.
+
+Mass 800 grams of erythritol crystals measure 4 cups in volume.
+
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+26 November 2020
+
+Secondary rack
+I siphoned the cider to a clean stainless steel pot, cleaned the carboy, then siphoned the cider back to the clean carboy.
+
+I tasted the cider, and the amount of erythritol back sweetener was about right.
+
+I crushed and added 0.55 grams (1 Campden tablets) to the cider.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+22 November 2020
+
+Back sweeten
+
+I added approximately 300 grams of erythritol crystals to the 10 liters of cider.
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+13 November 2020
+
+Primary rack
+I siphoned the cider to a clean stainless steel pot, cleaned the carboy, then siphoned the cider back to the clean carboy. I took care to avoid transferring most of the lees and hops sediment.
+
+Specific gravity
+I measured the specific gravity while the cider was at a temperature of about 20 degrees Celsius (68 degrees Fahrenheit): 0.992. After temperature adjustment, the specific gravity was about 0.993.
 
 --------------------------------------------------
 --------------------------------------------------
