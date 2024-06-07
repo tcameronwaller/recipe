@@ -1,0 +1,27 @@
+--------------------------------------------------
+title: "Daily Nutrition Milk Shake"
+author: T. Cameron Waller
+date: 6 June 2024
+--------------------------------------------------
+
+----------
+Ingredients
+
+milk: 0.25 liter
+water: 0.5 liter
+protein powder, pea: 50 grams
+fenugreek power: 2 grams
+fennel powder: 2 grams
+reishi mushroom powder: 10 grams
+lion's mane mushroom powder: 2 grams
+cordyceps mushroom powder: 2 grams
+chaga musroom powder: 2 grams
+
+Quantities are based on recommendations of daily dosages of these ingredients.
+
+----------
+Procedure
+
+In a 1-liter jar, combine powders to milk and water and mix thoroughly.
+Optionally, use ice cubes in place of water to cool the milk shake to taste.
+Serve cold.
