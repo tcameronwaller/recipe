@@ -1,21 +1,29 @@
 
-
--------------------------
+--------------------------------------------------
 Pan Cakes
--------------------------
+date, review or revision: 3 January 2025
+----------
 
+----------
 Ingredients
-Milk, almond: 1 cup
-Oil: 2 tablespoons
-Sugar: 1 tablespoon
-Salt: 0.5 teaspoon
-Bake powder: 1 tablespoon
-Flour, sifted: 1 cup
 
-Optional
-Vanilla extract: 1 teaspoon
-Cinnamon: 1 tablespoon
+flour: 1 cup
+bake powder: 1 tablespoon
+sugar: 1 tablespoon
+salt: 0.25 teaspoon
 
+oil or butter: 2 tablespoons
+eggs: 2
+milk: 0.75 cup
+
+options
+- use half wheat flour and half cornmeal
+- substitute water for eggs and milk
+- adjust liquid (eggs and milk or water) for proper consistency
+- add vanilla extract (1 teaspoon), cinnamon (1 tablespoon) or other spices and seasonings
+- add frozen blueberries, raisins, or other fruits to the pancakes while cooking
+
+----------
 Procedure
 
 
